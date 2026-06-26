@@ -1,0 +1,31 @@
+id,title,description,price,discountPercentage,rating,stock,brand,category,discount_amount,final_price
+1,Essence Mascara Lash Princess,The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.,9.99,10.48,2.56,99,Essence,beauty,1.046952,8.943048000000001
+2,Eyeshadow Palette with Mirror,"The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",19.99,18.19,2.86,34,Glamour Beauty,beauty,3.6361809999999997,16.353818999999998
+3,Powder Canister,"The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",14.99,9.84,4.64,89,Velvet Touch,beauty,1.4750159999999999,13.514984
+4,Red Lipstick,"The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",12.99,12.16,4.36,91,Chic Cosmetics,beauty,1.579584,11.410416
+5,Red Nail Polish,"The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",8.99,11.44,4.32,79,Nail Couture,beauty,1.028456,7.961544
+6,Calvin Klein CK One,"CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",49.99,1.89,4.37,29,Calvin Klein,fragrances,0.944811,49.045189
+7,Chanel Coco Noir Eau De,"Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",129.99,16.51,4.26,58,Chanel,fragrances,21.461349000000006,108.528651
+8,Dior J'adore,"J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",89.99,14.72,3.8,98,Dior,fragrances,13.246528000000001,76.743472
+9,Dolce Shine Eau de,"Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",69.99,0.62,3.96,4,Dolce & Gabbana,fragrances,0.433938,69.556062
+10,Gucci Bloom Eau de,"Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",79.99,14.39,2.74,91,Gucci,fragrances,11.510561000000001,68.479439
+11,Annibale Colombo Bed,"The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",1899.99,8.57,4.77,88,Annibale Colombo,furniture,162.82914300000002,1737.160857
+12,Annibale Colombo Sofa,"The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",2499.99,14.4,3.92,60,Annibale Colombo,furniture,359.99856,2139.99144
+13,Bedside Table African Cherry,"The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",299.99,19.09,2.87,64,Furniture Co.,furniture,57.268091000000005,242.721909
+14,Knoll Saarinen Executive Conference Chair,"The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",499.99,2.01,4.88,26,Knoll,furniture,10.049799,489.940201
+15,Wooden Bathroom Sink With Mirror,"The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",799.99,8.8,3.59,7,Bath Trends,furniture,70.39912,729.59088
+16,Apple,"Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",1.99,12.62,4.19,8,0,groceries,0.251138,1.7388620000000001
+17,Beef Steak,"High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",12.99,9.61,4.47,86,0,groceries,1.248339,11.741661
+18,Cat Food,Nutritious cat food formulated to meet the dietary needs of your feline friend.,8.99,9.58,3.13,46,0,groceries,0.8612420000000001,8.128758
+19,Chicken Meat,"Fresh and tender chicken meat, suitable for various culinary preparations.",9.99,13.7,3.19,97,0,groceries,1.36863,8.62137
+20,Cooking Oil,"Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",4.99,9.33,4.8,10,0,groceries,0.465567,4.524433
+21,Cucumber,"Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",1.49,0.16,4.07,84,0,groceries,0.002384,1.487616
+22,Dog Food,Specially formulated dog food designed to provide essential nutrients for your canine companion.,10.99,10.27,4.55,71,0,groceries,1.128673,9.861327
+23,Eggs,"Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",2.99,11.05,2.53,9,0,groceries,0.33039500000000005,2.659605
+24,Fish Steak,"Quality fish steak, suitable for grilling, baking, or pan-searing.",14.99,4.23,3.78,74,0,groceries,0.634077,14.355923
+25,Green Bell Pepper,"Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",1.29,0.16,3.25,33,0,groceries,0.002064,1.287936
+26,Green Chili Pepper,"Spicy green chili pepper, ideal for adding heat to your favorite recipes.",0.99,1.0,3.66,3,0,groceries,0.009899999999999999,0.9801
+27,Honey Jar,"Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",6.99,14.4,3.97,34,0,groceries,1.0065600000000001,5.98344
+28,Ice Cream,"Creamy and delicious ice cream, available in various flavors for a delightful treat.",5.49,8.69,3.39,27,0,groceries,0.47708100000000003,5.012919
+29,Juice,"Refreshing fruit juice, packed with vitamins and great for staying hydrated.",3.99,12.06,3.94,50,0,groceries,0.48119400000000007,3.5088060000000003
+30,Kiwi,"Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",2.49,15.22,4.93,99,0,groceries,0.37897800000000004,2.111022
